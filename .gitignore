@@ -75,11 +75,11 @@ data/corpus/
 
 # 忽略最终生成的可执行文件目录和测试目录
 bin/
-tests/
+#tests/
 test/
 
 # 忽略文档目录
-docs/
+#docs/
 
 # （可选）忽略本地真实的配置文件，防止本地绝对路径或敏感配置提交
 # 可以提交一个 server.conf.example 作为示例，而真正的 server.conf 被忽略
